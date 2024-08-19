@@ -2,3 +2,4 @@ gradle.properties
 local.properties
 .gradle/
 .DS_STORE
+.idea/
